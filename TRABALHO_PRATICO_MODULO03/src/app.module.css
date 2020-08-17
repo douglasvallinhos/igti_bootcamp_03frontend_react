@@ -1,0 +1,25 @@
+.inputAutoPai {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.inputAuto {
+  width: 165px;
+  margin: 5px;
+}
+.inputINSS {
+  color: #e67e22;
+}
+.inputIRPF {
+  color: #c0392b;
+}
+
+.inputLiquido {
+  color: #16a085;
+}
+.bar {
+  display: flex;
+}
+* {
+  text-align: center;
+}
