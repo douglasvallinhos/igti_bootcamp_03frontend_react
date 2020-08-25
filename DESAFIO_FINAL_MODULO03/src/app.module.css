@@ -1,0 +1,33 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.green {
+  color: green;
+  font-weight: bold;
+}
+.red {
+  color: red;
+  font-weight: bold;
+}
+.blue {
+  color: turquoise;
+  font-weight: bold;
+}
+.orange {
+  color: crimson;
+  font-weight: bold;
+}
+
+.pai {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.filho {
+  width: 265px;
+  margin: 5px;
+}
